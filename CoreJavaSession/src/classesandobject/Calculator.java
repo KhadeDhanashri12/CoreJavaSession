@@ -27,6 +27,13 @@ public class Calculator {
 	}
 
 	public static void main(String[] args) {
+		Calculator obj=new Calculator();
+		obj.add(21, 21);
+		obj.multiply(3,6 );
+		obj.subtraction(30, 15);
+		obj.division(43,30);
+		obj.mod(2, 2);
+		obj.square(5);
 		
 	}
 
