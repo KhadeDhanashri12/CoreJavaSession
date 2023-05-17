@@ -22,7 +22,7 @@ public class ForLoopExample {
 	}
 		void factorial()
 		{
-			int fact=1;
+			int fact=2;
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter a number:");
 			int num=sc.nextInt();
